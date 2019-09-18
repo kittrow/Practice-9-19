@@ -1,0 +1,13 @@
+#SIN {
+  text-decoration: line-through;
+  letter-spacing: 0.8em;
+  background-color: black;
+  color:red;
+  text-shadow: 2px 2px 7px yellow;
+}
+a{
+  text-decoration: none;
+}
+a:visited{
+  color: red;
+}
